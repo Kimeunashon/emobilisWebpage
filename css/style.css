@@ -1,0 +1,62 @@
+button{
+        background-color: red;
+        color: whitesmoke;
+        padding: 10px;
+        margin-top: 10px;
+        margin-right: 10px;
+        margin-left: 10px;
+        margin-bottom: 10px;
+    }
+    #btncheckout{
+        background-color: yellowgreen;
+        color: white;
+        padding: 9px;
+        margin-top: 10px;
+        margin-right: 10px;
+        margin-left: 10px;
+        margin-bottom: 10px;
+
+    }
+     .table{
+        width: 100%;
+        margin: 20px;
+        padding: 10px;
+        font-family: Cambria;
+    }
+    td{
+padding: 12px;
+        text-align: center;
+        border: 1px solid grey;
+
+    }
+    form{
+        max-width: ;
+        margin: 0 auto;
+        padding: 20px;
+        border-radius:8px ;
+    }
+    label{
+        display: block;
+        margin-bottom: 5px;
+        font-weight: bold;
+        color: whitesmoke;
+        padding: 10px;
+    }
+    input[type="text"],
+    input[type="number"],
+    input[type="file"],
+    input[type="email"],
+    input[type="submit"],
+    input[type="reset"],
+    select {
+        width: 100%;
+        padding: 10px;
+        margin-bottom: 5px;
+        border-radius: 4px;
+    }
+    input[type="submit"]{
+        background-color: blueviolet;
+    }
+    input[type="reset"]{
+        background-color: coral;
+    }
